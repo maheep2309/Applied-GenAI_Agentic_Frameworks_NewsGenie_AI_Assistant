@@ -1,4 +1,4 @@
-# Applied-GenAI_Agentic-Frameworks_NewsGenie-AI-Assistant
+# Applied-GenAI_Agentic-Frameworks_NewsGenieAI-Assistant_using-LangGrraph
 An AI-powered news assistant built using LangGraph, ReAct Agents, NewsAPI and Tavily Search. It intelligently classifies queries, routes requests through specialized workflows and leverages conversational memory to deliver real-time, context-aware and trustworthy responses.
 
 # Project Summary
